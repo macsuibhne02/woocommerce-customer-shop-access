@@ -1,1 +1,14 @@
+/vendor/
+/node_modules/
 
+.DS_Store
+Thumbs.db
+
+.idea/
+.vscode/
+
+*.zip
+
+composer.lock
+
+phpunit.result.cache
